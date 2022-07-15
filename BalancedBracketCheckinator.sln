@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1700.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BalancedBracketCheckinator", "BalancedBracketCheckinator\BalancedBracketCheckinator.csproj", "{24904620-704B-48B3-B67D-C6BCCC30F8F5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BalancedBracketCheckinatorTests", "BalancedBracketCheckinatorTests\BalancedBracketCheckinatorTests.csproj", "{42BC6470-31FB-4A6D-B588-1B4634C95C23}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{24904620-704B-48B3-B67D-C6BCCC30F8F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24904620-704B-48B3-B67D-C6BCCC30F8F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24904620-704B-48B3-B67D-C6BCCC30F8F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24904620-704B-48B3-B67D-C6BCCC30F8F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42BC6470-31FB-4A6D-B588-1B4634C95C23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42BC6470-31FB-4A6D-B588-1B4634C95C23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42BC6470-31FB-4A6D-B588-1B4634C95C23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42BC6470-31FB-4A6D-B588-1B4634C95C23}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {498B6DED-8014-4242-B369-0AF386F9F075}
+	EndGlobalSection
+EndGlobal
